@@ -1,7 +1,7 @@
 # Hangman Game
 Cesar Marrote Manzano
 <br>
-College: Pontifícia Universidade Católica de Campinas
+University: Pontifícia Universidade Católica de Campinas
 <br>
 First Semester Work
 <br>
