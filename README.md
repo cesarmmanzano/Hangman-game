@@ -3,7 +3,7 @@ Cesar Marrote Manzano
 <br>
 University: Pontifícia Universidade Católica de Campinas
 <br>
-First Semester Work
+First Semester Project
 <br>
 Subject: Algorítmos e Programação de Computadores A
 
