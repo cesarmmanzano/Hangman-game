@@ -1,4 +1,4 @@
-# Hangman Game
+# Basic Hangman Game
 Cesar Marrote Manzano
 <br>
 University: Pontifícia Universidade Católica de Campinas
